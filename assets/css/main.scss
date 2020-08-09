@@ -1,0 +1,94 @@
+---
+---
+
+html {
+	font-family: 'Verdana', 'PT Sans', sans-serif;
+}
+
+body {
+	padding-top: 6rem;
+}
+
+h2, h3, h4 {
+	color: #101308;
+}
+
+header {
+	background-color: #101308;
+	height: 6rem;
+
+	.header--logo {
+		height: 5rem;
+		margin-top: .4rem;
+	}
+	
+	.icon-bar {
+		background-color: #ffffff;
+		height: 3px;
+	}
+	
+	#header-navbar-collapse {
+		&.in {
+			background-color: #101308;
+		}
+	}
+
+	.navbar-right {
+		margin-top: .5rem;
+	}
+	
+	.navbar--icons {
+		color: #ffffff;
+		font-size: 1em;
+		
+		&:hover {
+			background-color: #101308 !important;
+			color: orange;
+		}
+	}
+}
+
+.index {
+	width: 100%;
+
+	.index--logo {
+		margin-top: 3rem;
+		width: 100%;
+	}
+
+	.index--slogan {
+		margin-bottom: 5rem;
+		margin-top: 5rem;
+		text-align: center;
+	}
+
+	.index--description {
+		text-align: center;
+	}
+}
+
+.team {
+	margin-top: 8rem;
+	text-align: center;
+}
+
+.products {
+}
+
+.why {
+	.why--big-question {
+		background-color: #101308;
+		border-radius: 10px;
+		color: #ffffff;
+		height: 10rem;
+		margin-bottom: 5rem;
+		margin-top: 8rem;
+		padding-top: 3rem;
+		text-align: center;
+	}
+
+	.why--fresheyes {
+		margin-bottom: 3rem;
+		text-align: center;
+	}
+}
