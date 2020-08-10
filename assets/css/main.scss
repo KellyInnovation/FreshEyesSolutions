@@ -92,3 +92,19 @@ header {
 		text-align: center;
 	}
 }
+
+.contact {
+	.contact--header {
+		margin: 4rem;
+		text-align: center;
+	}
+
+	.form-group > label {
+		width: 100%;
+	}
+
+	.contact--button {
+		background-color: #101308;
+		color: #ffffff;
+	}
+}
