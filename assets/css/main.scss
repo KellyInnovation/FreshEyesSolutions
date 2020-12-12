@@ -6,11 +6,16 @@ html {
 }
 
 body {
+	padding-bottom: 2rem;
 	padding-top: 6rem;
 }
 
 h2, h3, h4 {
 	color: #101308;
+}
+
+p {
+	font-size: 16px;
 }
 
 header {
@@ -58,12 +63,31 @@ header {
 
 	.index--slogan {
 		margin-bottom: 5rem;
-		margin-top: 5rem;
+		margin-top: -40px;
 		text-align: center;
 	}
 
 	.index--description {
 		text-align: center;
+	}
+
+	.index--scentple {
+		margin: 2rem auto;
+		text-align: center;
+	}
+}
+
+.scentple {
+	.scentple-logo {
+		margin-left: -15px;
+		margin-top: 2rem;
+		width: 100%;
+	}
+
+	.scentple--top {
+		margin-bottom: 2rem;
+		margin-top: 2rem;
+		// text-align: center;
 	}
 }
 
@@ -95,8 +119,13 @@ header {
 
 .contact {
 	.contact--header {
-		margin: 4rem;
+		margin-bottom: 4rem;
+		margin-top: 4rem;
 		text-align: center;
+	}
+
+	.contact--form-label {
+		margin-left: -15px;
 	}
 
 	.form-group > label {

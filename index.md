@@ -15,10 +15,7 @@ title: Home
 			</div>
 			<div class="row index--slogan">
 				<h2>
-          Connecting Businesses and Customers 
-        </h2>	
-        <h2>
-          through Innovation
+          Connecting Businesses and Customers through Innovation
         </h2>
 			</div>
 		</div>
@@ -31,4 +28,13 @@ title: Home
 			We develop innovations to improve the customer experience and drive growth for our clients.
 		</h4>
 	</div>
+	<div class='row index--scentple'>
+		<h4>
+			Learn about our product:
+		</h4>
+		<h4>
+			<a href="/scentple" class="navbar--icons">
+				Scentple Fragrance Kiosk
+			</a>
+		</h4>
 </div>
