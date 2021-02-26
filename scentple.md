@@ -8,7 +8,7 @@ title: Scentple Fragrance Kiosk
 		<div class="col-md-4">
       <img
         class='scentple-logo'
-        src="/photos/scentple_logo.png"
+        src="/photos/scentple_navy_pink.png"
         aria-hidden="true"
       />
 		</div>
@@ -78,4 +78,14 @@ title: Scentple Fragrance Kiosk
       With data analytics, via Scentple, you can answer these questions and develop products and marketing for tomorrow's consumers.
     </p>
 	</div>
+  <h3>
+    <div class="row">
+      To try out the initial quiz, click here:
+    </div>
+    <div class="row">
+      <a href="https://app.scentplekiosk.com/" class="scentple-app--link">
+        https://app.scentplekiosk.com/
+      </a>
+    </div>
+  </h3>
 </div>
