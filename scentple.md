@@ -1,30 +1,21 @@
 ---
 layout: page
-title: Scentple Fragrance Kiosk
+title: Fragrance Kiosk
 ---
 
 <div class='scentple container'>
-  <div class="row">
-		<div class="col-md-4">
-      <img
-        class='scentple-logo'
-        src="/photos/scentple_navy_pink.png"
-        aria-hidden="true"
-      />
-		</div>
-	</div>
   <div class="row scentple--top">
     <h2>
       A shopper engagement platform for the fragrance industry
     </h2>
   </div>
 	<div class="row scentple--solution">
-    <h3>Scentple Solution</h3>
+    <h3>Fragrance Sampling Kiosk</h3>
 		<p>
-			Scentple guides shoppers through an interactive selection guide to help them choose the fragrance that's right for them.
+			Our fragrance kiosk guides shoppers through an interactive selection guide to help them choose the fragrance that's right for them.
 		</p>
     <p>
-      When a shopper finds this fragrance, Scentple dispenses a card with:
+      When a shopper finds this fragrance, the kiosk dispenses a card with:
     </p>
     <ul>
       <li>Brand information</li>
@@ -52,13 +43,13 @@ title: Scentple Fragrance Kiosk
 			Differentiate yourself in the fragrance market with point of sale advertising, consumer engagement, and sample availability.
 		</p>
 		<p>
-			Scentple begins by playing short advertisements and provides brands opportunities to connect with customers throughout their self-guided fragrance journey.
+			The kiosk begins by playing short advertisements and provides brands opportunities to connect with customers throughout their self-guided fragrance journey.
 		</p>
 	</div>
 	<div class="row scentple--analytics">
     <h3>Data Analytics</h3>
 		<p>
-			Scentple monitors consumer engagement to help you discover new consumer fragrance trends in real time.  
+			The kiosk monitors consumer engagement to help you discover new consumer fragrance trends in real time.  
 		</p>
     <ul>
       <li>
@@ -75,17 +66,19 @@ title: Scentple Fragrance Kiosk
       </li>
     </ul>
     <p>
-      With data analytics, via Scentple, you can answer these questions and develop products and marketing for tomorrow's consumers.
+      With data analytics you can answer these questions and develop products and marketing for tomorrow's consumers.
     </p>
 	</div>
-  <h3>
-    <div class="row">
+  <div class="row">
+    <h4>
       To try out the initial quiz, click here:
-    </div>
-    <div class="row">
+    </h4>
+  </div>
+  <!-- <div class="row">
+    <p>
       <a href="https://app.scentplekiosk.com/" class="scentple-app--link">
         https://app.scentplekiosk.com/
       </a>
-    </div>
-  </h3>
+    </p>
+  </div> -->
 </div>
