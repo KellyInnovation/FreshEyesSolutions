@@ -69,11 +69,11 @@ title: Fragrance Kiosk
       With data analytics you can answer these questions and develop products and marketing for tomorrow's consumers.
     </p>
 	</div>
-  <div class="row">
+  <!-- <div class="row">
     <h4>
       To try out the initial quiz, click here:
     </h4>
-  </div>
+  </div> -->
   <!-- <div class="row">
     <p>
       <a href="https://app.scentplekiosk.com/" class="scentple-app--link">

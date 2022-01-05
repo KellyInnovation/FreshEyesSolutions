@@ -118,7 +118,8 @@ header {
 		
 		&:hover {
 			background-color: var(--dark-grey) !important;
-			color: orange;
+			border-radius: 50px;
+			color: var(--pale);
 		}
 	}
 }
