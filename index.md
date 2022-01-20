@@ -48,7 +48,23 @@ title: Home
 				</div>
 				<div class='row'>
 					<p>
-						The fragrance sampling kiosk is a point-of-sale, consumer engagement tool.  Consumers use the touch screen interface to take a short quiz.  They receive personalized recommendations.  By choosing a recommended scent, consumers receive a scented card with product information and a QR code. 
+						Pomander Tech is a fragrance sampling kiosk, point-of-sale connection, and consumer engagement tool. Consumers use the touch screen interface to take a short quiz.  Based on this quiz, consumers receive personalized recommendations. By choosing a recommended scent, Pomander Tech presents a scented card with product information, for a tailor-made, consumer experience. 
+					</p>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="row index--block">
+		<div class="col-xs-12">
+			<div class="index--block-text">
+				<div class="row">
+					<h3 class="index--product-story">
+						What is the story of Pomander?
+					</h3>
+				</div>
+				<div class="row">
+					<p>
+						The first pomanders took many forms. As individual tokens, pomanders were carried to store fragrances and perfumes, and as a symbol of good luck and health. Pomander Tech aims to take consumers on a journey to find their new favorite fragrance.
 					</p>
 				</div>
 			</div>
@@ -164,10 +180,10 @@ title: Home
 				</div>
 				<div class='row'>
 					<p>
-						Our team thrives on solving challenges for our customers. We love the challenge of creating new solutions to help you succeed.
+						Our team thrives on solving challenges utilizing our years of experience.
 					</p>
 					<p>
-						Kelly Wright, the CEO, has 10 years experience as a chemist and 5 as a software developer.  She has lead an assortment of projects and learns quickly.
+						Kelly Wright, the CEO, has ten years experience as a chemist and five as a software developer.
 					</p>
 					<p>
 						Nyah Mattison, the intern, is double majoring in computer science and digital arts &#38; media
