@@ -4,11 +4,10 @@ title: Contact
 ---
 
 <div class='container contact'>
+  <h2 class='contact--form-label grey-header'>Contact</h2>
   <h3 class='contact--header'>
     We would love to hear from you.  Please complete the form below.
   </h3>
-
-  <h4 class='contact--form-label'>Contact</h4>
   <div class='row'>
     <script
       charset="utf-8"

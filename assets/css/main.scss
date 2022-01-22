@@ -124,6 +124,22 @@ header {
 	}
 }
 
+.grey-header {
+	color: var(--mid-grey);
+}
+
+.orange-header {
+	color: var(--orange);
+}
+
+.green-header {
+	color: var(--green);
+}
+
+.blue-header {
+	color: var(--dark-blue);
+}
+
 // HOME SCREEN INDEX
 .index {
 	.index--logo {
@@ -149,10 +165,6 @@ header {
 			width: 100%;
 		}
 
-		.index--product-header {
-			color: var(--mid-grey);
-		}
-
 		.index--product-story {
 			color: var(--mid-grey);
 			font-family: 'Roxie', serif;
@@ -160,7 +172,6 @@ header {
 		}
 
 		.index--values-header {
-			color: var(--orange);
 			text-align: center;
 		}
 
@@ -169,17 +180,9 @@ header {
 			text-align: left !important;
 		}
 
-		.index--team-header {
-			color: var(--green);
-		}
-
 		.index--team-image {
 			height: 200px;
 			padding: 0;
-		}
-
-		.index--contact-header {
-			color: var(--dark-blue);
 		}
 
 		.index--contact--p {
@@ -202,22 +205,17 @@ header {
 	}
 }
 
-.scentple {
+// POMANDER TECH PAGE
+.pomander {
 	margin-top: 100px;
 
-	.scentple-logo {
-		margin-left: -15px;
+	.pomander-story--image {
+		margin-bottom: 3rem;
 		margin-top: 2rem;
-		width: 100%;
+		max-width: 100%;
 	}
 
-	.scentple--top {
-		margin-bottom: 2rem;
-		margin-top: 2rem;
-		// text-align: center;
-	}
-
-	.scentple-app--link {
+	.pomander-app--link {
 		color: #1d3354;
 	}
 }
@@ -225,9 +223,6 @@ header {
 .team {
 	margin-top: 8rem;
 	text-align: center;
-}
-
-.products {
 }
 
 .why {

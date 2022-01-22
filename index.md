@@ -42,7 +42,7 @@ title: Home
 		<div class='col-md-6'>
 			<div class='index--block-text'>
 				<div class='row'>
-					<h2 class='index--product-header'>
+					<h2 class='grey-header'>
 						The Product
 					</h2>
 				</div>
@@ -76,7 +76,7 @@ title: Home
 	<div class='row index--block'>
 		<div class='index--block-text'>
 			<div class='row'>
-				<h2 class='index--values-header'>
+				<h2 class='orange-header index--values-header'>
 					Why Us?
 				</h2>
 			</div>
@@ -174,7 +174,7 @@ title: Home
 		<div class='col-md-6'>
 			<div class='index--block-text'>
 				<div class='row'>
-					<h2 class='index--team-header'>
+					<h2 class='green-header'>
 						The Team
 					</h2>
 				</div>
@@ -201,7 +201,7 @@ title: Home
 	<div class='row index--block'>
 		<div class='index--block-text'>
 			<div class='row'>
-				<h1 class='index--contact-header'>
+				<h1 class='blue-header'>
 					Work with Us
 				</h1>
 			</div>
