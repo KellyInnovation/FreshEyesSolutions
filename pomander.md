@@ -35,6 +35,9 @@ title: Fragrance Kiosk
     <p>
       The fragrance dispenses on the card at the time of selection, for the most accurate fragrance representation.
     </p>
+    <p>
+      Patent Pending
+    </p>
 	</div>
 	<div class="row pomander--consumer">
     <h2 class="orange-header">

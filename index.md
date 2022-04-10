@@ -50,6 +50,9 @@ title: Home
 					<p>
 						Pomander Tech is a fragrance sampling kiosk, point-of-sale connection, and consumer engagement tool. Consumers use the touch screen interface to take a short quiz.  Based on this quiz, consumers receive personalized recommendations. By choosing a recommended scent, Pomander Tech presents a scented card with product information, for a tailor-made, consumer experience. 
 					</p>
+					<p>
+						Patent Pending
+					</p>
 				</div>
 			</div>
 		</div>
