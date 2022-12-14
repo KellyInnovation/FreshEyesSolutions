@@ -22,7 +22,11 @@ title: Home
 		</div>
 		<div class="row">
 			<p>
-				FreshEyes Solutions is a business to business technology company. Our product is a fragrance sampling kiosk to increase fragrance sales by engaging consumers at the point of sale.
+				FreshEyes Solutions is a business to business technology company.  We provide existing industries with a set of Fresh Eyes to develop new technologies to delight their customers.  We develop custom technology and software solutions to provide the best consumer experience.
+			</p>
+			<br/>
+			<p>
+				Our initial offering is the Pomander Tech fragrance sampling kiosk to increase fragrance sales by engaging consumers at the point of sale.
 			</p>
 		</div>
 	</div>
